@@ -1,6 +1,6 @@
 #include<stido.h>
 
 main(){
-	printf("Hello World\n");
-	printf("Hi Programer");
+	printf("Hello My Home\n");
+	printf("Hi Mom");
 }
