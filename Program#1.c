@@ -2,5 +2,5 @@
 
 main(){
 	printf("Hello World\n");
-	printf("Hi Programer");
+	printf("Hi Programer ( ͡° ͜ʖ ͡°)");
 }
